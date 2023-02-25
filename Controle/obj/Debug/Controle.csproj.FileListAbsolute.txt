@@ -1,0 +1,8 @@
+C:\Luana-cursos\Controle\Controle\bin\Debug\Controle.exe.config
+C:\Luana-cursos\Controle\Controle\bin\Debug\Controle.exe
+C:\Luana-cursos\Controle\Controle\bin\Debug\Controle.pdb
+C:\Luana-cursos\Controle\Controle\obj\Debug\Controle.csproj.AssemblyReference.cache
+C:\Luana-cursos\Controle\Controle\obj\Debug\Controle.csproj.SuggestedBindingRedirects.cache
+C:\Luana-cursos\Controle\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+C:\Luana-cursos\Controle\Controle\obj\Debug\Controle.exe
+C:\Luana-cursos\Controle\Controle\obj\Debug\Controle.pdb
